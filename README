@@ -1,0 +1,3 @@
+# A few useful haskell libraries that I have made
+
+1. peucker.hs - The Ramer-Douglas-Peucker algorithm implemented both with lists and loop fusion vectors.
